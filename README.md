@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Yoko zo, Ore wa Kurjin desu! Hajimemashite ^-^
+
+💻 Full Stack Developer | UI/UX Designer   
 
 <!--
 **Kurjin/Kurjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
